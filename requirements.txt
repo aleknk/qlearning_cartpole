@@ -1,0 +1,6 @@
+gymnasium==0.29.1
+imageio==2.33.1
+numpy==1.26.3
+pygame==2.5.2
+seaborn==0.13.1
+
