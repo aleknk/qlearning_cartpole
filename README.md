@@ -44,9 +44,11 @@ By default, `cartpole_train` tool will use the parameters in `config/cartpole_tr
 
 In order to play with a trained agent, user can simply run:
 
-`cartpole_play --agent_dir /dir_where_the_training_took_place --save_dir /dir_where_to_save_playing_results`
+`cartpole_play --save_dir /especify_your_desired_dir`
 
-Again, there are other parameters user can check by running `cartpole_play -h` (or checking the main function in `cartpole/play.py`).
+There are other parameters user can check by running `cartpole_play -h` (or checking the main function in `cartpole/play.py`).
+
+Again, defaulta parameters are set in the `config` directory (`config/cartpole_play.json`).
 
 ### 5. Contribution
 
