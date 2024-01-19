@@ -1,0 +1,5 @@
+{
+  "agent_dir": "./results/learn_run_1",
+  "n_episodes": 2,
+  "save_dir": "./results/play_run_1"
+}

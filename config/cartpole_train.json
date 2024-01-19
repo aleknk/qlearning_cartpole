@@ -1,0 +1,13 @@
+{
+  "learning_rate": 0.1,
+  "discount_factor": 0.99,
+  "exploration_prob": 1.0,
+  "start_exploration_prob": 1.0,
+  "final_exploration_prob": 0.01,
+  "exploration_decay": 2e4,
+  "max_values": [2.4, 3.0, 0.3, 3.0],
+  "min_values": [-2.4, -3.0, -0.3, -3.0],
+  "num_bins": [20, 20, 20, 20],
+  "n_episodes": 100,
+  "save_dir": "./results/learn_run_1"
+}
